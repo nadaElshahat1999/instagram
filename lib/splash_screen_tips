@@ -1,0 +1,4 @@
+1- login  => get user data from fireStore.
+2- login  => save user data in shared preferences.
+3- splash => check if user data exists.
+4- Navigate to home screen or login screen
